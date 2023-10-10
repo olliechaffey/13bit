@@ -1,0 +1,31 @@
+.p-bold{
+    font-weight: 800;
+}
+
+.p-small{
+    font-size: small;
+}
+
+.f-letter{
+    padding-right: 10% !important;
+}
+
+.footer{
+    margin: 100px 100px 0px 100px;
+    padding: 20px;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: black;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.p-right{
+    padding-right: 25px;
+}

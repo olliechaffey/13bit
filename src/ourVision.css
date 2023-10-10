@@ -1,0 +1,26 @@
+.vision-section {
+    background-color: black;
+    margin: 50px 100px 50px 100px;
+    padding: 20px;
+}
+
+.main-section-vision {
+    background-color: black !important;
+}
+
+.p-style-vision {
+    color: white;
+    text-align: justify;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.heading-style-vision {
+    color: var(--orange-color);
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}

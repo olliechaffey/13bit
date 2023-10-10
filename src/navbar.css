@@ -1,0 +1,53 @@
+/* Navbar */
+
+.container.style-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+  width: auto; /* Set width to auto to adjust based on content */
+  max-width: 100%; /* Limit width to screen width */
+  margin: 0 auto; /* Center the container */
+  /* margin-top: 25px; */
+  background: #0D0D0D;
+}
+
+.navbar {
+  /* background: #1D1D1D;
+  border-radius: 15px; */
+  padding: 10px 20px 10px 20px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.font-nav {
+  color: #FFF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none; /* Remove underline from links */
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+.font-nav:hover{
+  color: orange;
+  transition: .5s;
+}
+
+.btn-nav{
+  background-color: var(--orange-color);
+  color: #FFF;
+  border: 0px;
+  border-radius: 10px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none; /* Remove underline from links */
+  text-transform: uppercase;
+  padding: 10px 20px 10px 20px;
+  margin-left: 15px;
+  margin-right: 10px;
+}

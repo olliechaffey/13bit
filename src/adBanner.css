@@ -1,0 +1,35 @@
+.topBanner {
+    background: #0085FF;
+    height: 40px;
+    flex-shrink: 0;
+}
+
+.bottomBanner {
+    background: #FFE500;
+    height: 40px;
+    flex-shrink: 0;
+}
+
+.font-ad {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.ad-link{
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
+  }
